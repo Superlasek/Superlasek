@@ -1,8 +1,6 @@
 ### Hello World ✌ [Lasek](https://www.github.com/superlasek) here!
 
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning JS, SQL
 - 🤔 I’m looking for help with databases and improve my english.
 - 💬 Ask me about any tech related things.
